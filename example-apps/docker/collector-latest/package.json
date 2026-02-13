@@ -14,6 +14,6 @@
   "description": "",
   "dependencies": {
     "@instana/collector": "latest",
-    "express": "^4.21.2"
+    "express": "^4.22.0"
   }
 }
